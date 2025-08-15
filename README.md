@@ -59,6 +59,6 @@ contact.html     → Contact page
 👩‍💻 Developed by **Archisha**
 
 ```
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://archisha-codes.github.io/Restro-menu-website/)
+[![Live Demo] https://archisha-codes.github.io/Restro-menu-website/
 
 ```
