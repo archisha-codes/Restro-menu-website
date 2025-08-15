@@ -59,7 +59,6 @@ contact.html     → Contact page
 👩‍💻 Developed by **Archisha**
 
 ```
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://archisha-codes.github.io/Restro-menu-website/)
 
-I can also add **screenshots** and a **live demo link** section if you’re planning to host this on GitHub Pages.  
-Do you want me to make this README include a **"Live Demo" button** that links directly to your hosted site?
 ```
